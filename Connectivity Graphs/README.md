@@ -30,3 +30,37 @@ The data used to generate these graphs comes from the official bike sharing syst
 ## 🤝 Contributing
 
 Feel free to fork the repository, submit issues, or open pull requests to improve the code or visualizations.
+
+## 📸 Connectivity Graphs by Year
+
+Below are the annual connectivity graphs generated from Fortaleza's bike sharing system data:
+
+### 2014
+![Connectivity Graph 2014](2014.png)
+
+### 2015
+![Connectivity Graph 2015](2015.png)
+
+### 2016
+![Connectivity Graph 2016](2016.png)
+
+### 2017
+![Connectivity Graph 2017](2017.png)
+
+### 2018
+![Connectivity Graph 2018](2018.png)
+
+### 2019
+![Connectivity Graph 2019](2019.png)
+
+### 2020
+![Connectivity Graph 2020](2020.png)
+
+### 2021
+![Connectivity Graph 2021](2021.png)
+
+### 2022
+![Connectivity Graph 2022](2022.png)
+
+### 2023
+![Connectivity Graph 2023](2023.png)
