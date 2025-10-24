@@ -21,7 +21,7 @@ The connectivity graphs illustrate how bike stations are linked based on user tr
 To run the Python script, make sure you have the following libraries installed:
 
 ```bash
-pip install pandas networkx matplotlib
+pip install pandas geopandas matplotlib geometry contextily os
 
 ## 🌍 Data Source
 
