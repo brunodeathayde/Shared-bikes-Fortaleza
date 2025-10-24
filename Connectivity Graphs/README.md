@@ -36,7 +36,7 @@ Feel free to fork the repository, submit issues, or open pull requests to improv
 Below are the annual connectivity graphs generated from Fortaleza's bike sharing system data:
 
 ### 2014
-![Connectivity Graph 2014](2014.png)
+![Graph](2014.png)
 
 ### 2015
 ![Connectivity Graph 2015](2015.png)
