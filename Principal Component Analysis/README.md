@@ -9,6 +9,9 @@ This project uses **Principal Component Analysis (PCA)** to create a synthetic i
 - `PCA.py`: Python script that performs PCA to compute the suitability index.
 - `neighborhoods.xlsx`: Input spreadsheet containing raw data for each neighborhood.
 - `index.xlsx`: Output spreadsheet with the PCA-based index and transformed variables.
+- `data.geojson`: Geospatial data for neighborhoods, used to map the PCA index and socio-economic variables.
+- `thematic_map.png`: Thematic map image illustrating spatial patterns of PCA index.
+- `map_index.py`: Python script for generating spatial visualizations of PCA index.
 
 ---
 
